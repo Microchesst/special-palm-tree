@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
-import { FrontendComponent } from '../frontend/frontend';
-import { BackendComponent } from '../backend/backend';
-import { SystemDesignComponent } from '../system-design/system-design';
+import { Frontend } from '../frontend/frontend';
+import { Backend } from '../backend/backend';
+import { SystemDesign } from '../system-design/system-design';
 
 @Component({
   selector: 'app-portfolio',
-  imports: [FrontendComponent, BackendComponent, SystemDesignComponent],
+  imports: [Frontend, Backend, SystemDesign],
   templateUrl: './portfolio.html',
   styleUrls: ['./portfolio.css']
 })
