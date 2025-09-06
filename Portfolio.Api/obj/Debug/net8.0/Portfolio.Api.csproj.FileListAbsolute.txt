@@ -1,0 +1,8 @@
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.csproj.AssemblyReference.cache
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.AssemblyInfoInputs.cache
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.AssemblyInfo.cs
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.csproj.CoreCompileInputs.cache
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/marcusjensen/Documents/Projekter/portfolio/Portfolio.Api/obj/Debug/net8.0/Portfolio.Api.sourcelink.json
