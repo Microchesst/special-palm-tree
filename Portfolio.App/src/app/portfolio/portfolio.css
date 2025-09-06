@@ -1,0 +1,13 @@
+.portfolio-container {
+  display: flex;
+  width: 300vw; /* 3 sections * 100vw */
+  height: 100vh;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+app-frontend, app-backend, app-system-design {
+  width: 100vw;
+  height: 100vh;
+  scroll-snap-align: start;
+}

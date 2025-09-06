@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
-import { Scene } from './scene/scene';
+import { Portfolio } from './portfolio/portfolio';
 
 @Component({
   selector: 'app-root',
-  imports: [Scene],
+  imports: [Portfolio],
   templateUrl: './app.html',
   styleUrls: ['./app.css']
 })
