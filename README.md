@@ -4,7 +4,7 @@ This is my personal portfolio website to showcase my projects and skills.
 
 ## Tech Stack
 
-*   React
+*   Angular
 *   TypeScript
 *   Tailwind CSS
 
